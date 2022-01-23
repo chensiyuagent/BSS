@@ -52,7 +52,15 @@ This project is released under the [Apache 2.0 license](./LICENSE).
 For example, the command for training CNN classifer:
 
 ```bash
-python BSS_network_analysis_NN.py
+python CNN.py
+```
+
+#### Training of NN-network classifier with weighted sampler
+
+For example, the command for training CNN classifer:
+
+```bash
+python CNN_imbalanced.py
 ```
 
 #### Training of SVM classifier
@@ -70,4 +78,3 @@ You can get the visualize the results by running following command :
 python plot.py
 ```
 
-You can also run distributed evaluation by using ```./tools/run_dist_launch.sh``` or ```./tools/run_dist_slurm.sh```.
