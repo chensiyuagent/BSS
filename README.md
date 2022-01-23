@@ -16,8 +16,6 @@ This repository is an official implementation of the report Bike-sharing Systems
 
 This project is released under the [Apache 2.0 license](./LICENSE).
 
-```
-
 ## Installation
 
 ### Requirements
